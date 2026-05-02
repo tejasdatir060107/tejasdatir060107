@@ -15,9 +15,9 @@ Always learning. Always building. 🚀
 [![Citi](https://img.shields.io/badge/Citi-Tech_Software_Development-003B70?style=for-the-badge)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tejasdatir060107&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tejasdatir060107&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejasdatir060107&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=tejasdatir060107&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000)<br/>
+![](https://streak-stats.demolab.com/?user=tejasdatir060107&theme=noctis_minimus&hide_border=true&background=00000000)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejasdatir060107&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000)
 
 ---
 [![](https://komarev.com/ghpvc/?username=tejasdatir060107&color=0e75b6&style=flat)](https://visitcount.itsvg.in)

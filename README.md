@@ -20,4 +20,12 @@ Always learning. Always building. 🚀
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejasdatir060107&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000)
 
 ---
+## 🐍 Contribution Snake:
+![Snake animation](https://github.com/tejasdatir060107/tejasdatir060107/blob/output/github-contribution-grid-snake-dark.svg)
+
+## 📈 Activity Graph:
+[![Tejas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasdatir060107&theme=react-dark&hide_border=true&bg_color=00000000)](https://github.com/tejasdatir060107)
+
+## 🎯 Coding Stats:
+![](https://github-profile-trophy.vercel.app/?username=tejasdatir060107&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 [![](https://komarev.com/ghpvc/?username=tejasdatir060107&color=0e75b6&style=flat)](https://visitcount.itsvg.in)

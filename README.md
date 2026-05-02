@@ -1,10 +1,13 @@
-# 👋 Hey, I'm Tejas!
-A CS student who loves solving problems with code.
-Currently diving deep into DSA, Java & Python.
-Certified by **Deloitte** 📊 & **Citi** 🏦 via Forage!
-Always learning. Always building. 🚀
+# 👋 Hey, I'm Tejas Datir
 
-## 🌐 Socials:
+I'm a Computer Science student who enjoys solving problems with code and building practical projects.
+
+- 🔭 Currently learning: DSA, Java, and Python
+- 💻 Interested in: software development, problem solving, and data analytics
+- 🏆 Certified by Deloitte Australia and Citi via Forage
+- 🚀 Always learning. Always building.
+
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejas_datir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-datir-9b6a6235b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasdatir2021@gmail.com)
 
 ## 💻 Tech Stack:

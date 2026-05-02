@@ -10,13 +10,10 @@
 
 ## 🏆 Certifications
 
-[![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=for-the-badge)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
+> 📊 **Deloitte Australia** — Data Analytics Job Simulation — *March 2026* — [🔗 View](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
 
-[![Citi](https://img.shields.io/badge/Citi-Tech_Software_Development-003B70?style=for-the-badge)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
-
-- 📊 **Deloitte Australia** — Data Analytics Job Simulation *(March 2026)*
-- 🏦 **Citi** — Technology Software Development Job Simulation *(April 2026)*
-# 📊 GitHub Stats:
+> 💻 **Citi** — Technology Software Development Job Simulation — *April 2026* — [🔗 View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
+> # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tejasdatir060107&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tejasdatir060107&theme=noctis_minimus&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tejasdatir060107&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

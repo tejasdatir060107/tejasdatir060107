@@ -13,6 +13,7 @@ I'm a Computer Science student who enjoys solving problems with code and buildin
 [![Portfolio](https://img.shields.io/badge/Portfolio-glittering--blancmange-a855f7?style=for-the-badge&logo=netlify&logoColor=white)](https://glittering-blancmange-8029fa.netlify.app/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=netlify&logoColor=white)](https://glittering-blancmange-8029fa.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-Check_It_Out!-0f0720?style=for-the-badge&logo=firefox&logoColor=white)](https://glittering-blancmange-8029fa.netlify.app/)
 
 
 ## 🌐 Connect With Me:

@@ -23,20 +23,11 @@ I'm a Computer Science student who enjoys solving problems with code and buildin
 
 
 
-## 🏆 Certifications:
-[![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=for-the-badge)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
-[![Citi](https://img.shields.io/badge/Citi-Tech_Software_Development-003B70?style=for-the-badge)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
 
-## 🏆 Certifications:
-[![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
-[![Citi](https://img.shields.io/badge/Citi-Tech_Software_Development-003B70?style=for-the-badge&logo=codereview&logoColor=white)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
 
 ## 🏆 Certifications:
 [![Deloitte](https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=flat-square&logo=googleanalytics&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
 [![Citi](https://img.shields.io/badge/Citi-Tech_Software_Development-003B70?style=flat-square&logo=codereview&logoColor=white)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
-## 🏆 Certifications:
-[![Deloitte](https://img.shields.io/badge/📊_Deloitte_Australia-Data_Analytics-000000?style=for-the-badge)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
-[![Citi](https://img.shields.io/badge/💻_Citi-Tech_Software_Development-000000?style=for-the-badge)](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
 
 
 

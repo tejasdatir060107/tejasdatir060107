@@ -10,6 +10,8 @@ I'm a Computer Science student who enjoys solving problems with code and buildin
 
 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-glittering--blancmange-a855f7?style=for-the-badge&logo=netlify&logoColor=white)](https://glittering-blancmange-8029fa.netlify.app/)
+
 
 
 

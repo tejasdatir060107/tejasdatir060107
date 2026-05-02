@@ -12,8 +12,7 @@ I'm a Computer Science student who enjoys solving problems with code and buildin
 
 
 
-[   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://magical-macaron-5e9dab.netlify.app/)
-](https://glittering-blancmange-8029fa.netlify.app/)
+
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejas_datir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-datir-9b6a6235b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasdatir2021@gmail.com)
 

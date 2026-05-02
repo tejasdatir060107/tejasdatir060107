@@ -10,15 +10,13 @@
 
 ## 🏆 Certifications
 
-🥇 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 **Deloitte Australia** | Data Analytics
-📅 March 2026 | 🔗 [View Certificate](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69c5483f0f6c612747161ab6_1777399757857_completion_certificate.pdf)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+March 2026 ──●── 📊 Deloitte Australia — Data Analytics
+                       [View Certificate 🔗](link)
 
-🥇 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💻 **Citi Bank** | Technology Software Development
-📅 April 2026 | 🔗 [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69c5483f0f6c612747161ab6_1774779690310_completion_certificate.pdf)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+April 2026  ──●── 💻 Citi — Tech Software Development  
+                       [View Certificate 🔗](link)
+```
 > # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tejasdatir060107&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tejasdatir060107&theme=noctis_minimus&hide_border=false)<br/>

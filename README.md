@@ -1,6 +1,6 @@
 # Hey, I'm Tejas Datir 👋
 
-I'm a Computer Science student passionate about problem solving, software development, and building practical projects with code.
+A Computer Science student passionate about problem solving, software development, and building practical projects with code.
 
 Currently, I'm focused on strengthening my skills in Data Structures and Algorithms, Java, Python, and data analytics. I enjoy learning by building, exploring new technologies, and turning ideas into useful applications.
 

@@ -18,7 +18,7 @@ Currently, I'm focused on strengthening my skills in Data Structures and Algorit
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=netlify&logoColor=white)](https://glittering-blancmange-8029fa.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=netlify&logoColor=white)](https://tejas-datir.netlify.app/)
 
 ---
 
